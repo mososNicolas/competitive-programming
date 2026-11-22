@@ -8,7 +8,7 @@ to get better solutions in my software projects, so let's achieve that `O(n)`.
 - Codeforces profile: https://codeforces.com/profile/square307  
 - Environment: C++17 on Fedora Linux
 
-##History
+## History
 
 |Platform|Problem|Topic|Complexity|Solution|
 |:---|:---|:---|:---|:---|
