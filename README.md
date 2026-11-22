@@ -13,5 +13,6 @@ to get better solutions in my software projects, so let's achieve that `O(n)`.
 |Platform|Problem|Topic|Complexity|Solution|
 |:---|:---|:---|:---|:---|
 |Codeforces|[1549B - Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B)|Greedy|`O(n)`|[C++](https://github.com/mososNicolas/competitive-programing/blob/main/greedy/cf-1549B-gregor-and-the-pawn-game.cpp)|
+|Codeforces|[939A - Love Triangle](https://codeforces.com/problemset/problem/939/A)|Graphs|`O(n)`|[C++](https://github.com/mososNicolas/competitive-programing/blob/main/graphs/cf-939A-love-triangle.cpp)|
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/56d5ccd8-bd75-4463-b4d7-8baebb03e38c" />
