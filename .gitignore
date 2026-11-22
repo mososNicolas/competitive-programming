@@ -1,0 +1,25 @@
+
+# Ignorar binarios compilados en Linux (archivos sin extensión)
+*
+!*.*
+!*/
+!LICENSE
+!Makefile
+
+# Archivos objeto y ejecutables explícitos
+*.o
+*.out
+*.exe
+a.out
+
+# Archivos de entrada/salida de pruebas locales
+input.txt
+output.txt
+in.txt
+out.txt
+
+# Archivos temporales de Neovim y el sistema
+*.swp
+*.swo
+*~
+.DS_Store
