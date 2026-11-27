@@ -15,6 +15,8 @@ to get better solutions in my software projects, so let's achieve that `O(n)`.
 |Codeforces|[1549B - Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B)|Greedy|`O(n)`|[C++](https://github.com/mososNicolas/competitive-programing/blob/main/greedy/cf-1549B-gregor-and-the-pawn-game.cpp)|
 |Codeforces|[939A - Love Triangle](https://codeforces.com/problemset/problem/939/A)|Graphs|`O(n)`|[C++](https://github.com/mososNicolas/competitive-programing/blob/main/graphs/cf-939A-love-triangle.cpp)|
 |Codeforces|[1676A - Lucky?](https://codeforces.com/problemset/problem/1676/A)|Implementation|`O(1)`|[C++](https://github.com/mososNicolas/competitive-programming/blob/main/implementation/cf-1676A-lucky%3F.cpp)|
+|Codeforces|[2290C - Books on a shelf](https://codeforces.com/contest/2290/problem/C)|Two pointers|`O(nLogn)`|[C++](https://github.com/mososNicolas/competitive-programming/blob/main/two-pointers/cf-2290C-books-on-a-shelf.cpp))|
+
 
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/56d5ccd8-bd75-4463-b4d7-8baebb03e38c" />
