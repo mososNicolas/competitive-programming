@@ -4,7 +4,7 @@
  * Link: https://codeforces.com/contest/2290/problem/C
  *
  * Approach: To be honest, this problem took me 4 days. After researching
- * constructive algorithms, without knowing anythin about two-pointers
+ * constructive algorithms, without knowing anything about two-pointers
  * technique, I just spammed nested loops, frequency arrays, and other weird
  * workarounds until discovering two-pointers, from there, it only took a simple
  * while loop handling even and odd iterations to assign the original sorted
