@@ -1,6 +1,6 @@
 /*
  * Problem: 2290C - books-on-a-shelf
- * Platform: Codeforces (Rating: 800)
+ * Platform: Codeforces (Rating: Unrated - Div. 4 C)
  * Link: https://codeforces.com/contest/2290/problem/C
  *
  * Approach: To be honest, this problem took me 4 days. After researching
